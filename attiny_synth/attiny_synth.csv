@@ -1,0 +1,7 @@
+Reference, Quantity, Value, Footprint, Datasheet
+J1 ,1,Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,~
+J2 J3 J4 J5 J6 ,5,MJ-3502N,MJ-3502N:CUI_MJ-3502N,https://www.cuidevices.com/product/resource/mj-3502n.pdf
+SW1 ,1,SW_Push,Button_Switch_THT:SW_PUSH_6mm,~
+U1 ,1,L7805,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+U2 ,1,ATtiny85V-10PU,Package_DIP:DIP-8_W7.62mm,http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf
+U3 ,1,TL074,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/ds/symlink/tl071.pdf
